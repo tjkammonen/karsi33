@@ -1,0 +1,16 @@
+{
+  "name": "Karsi 33%",
+  "short_name": "Karsi 33%",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F9FBFB",
+  "theme_color": "#4A9E9C",
+  "description": "Työkalu kodin tavaroiden karsimiseen.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
